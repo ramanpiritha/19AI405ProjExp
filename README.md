@@ -18,9 +18,8 @@
 
 ## Program
 ```
-Developed by:M.Pavithra
-Reg No: 212222100032
-
+Name: Piritharaman R
+Ref no: 212223230148
 ```
 ```
 M = 9
